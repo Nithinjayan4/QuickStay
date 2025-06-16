@@ -70,6 +70,9 @@ export const AppProvider =({children})=>{
         showHotelReg,
         setShowHotelReg,
         axios,
+        searchedCities,
+        setSearchedCities
+
 
     }
 
