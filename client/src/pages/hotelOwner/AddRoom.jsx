@@ -18,7 +18,7 @@ const AddRoom = () => {
     pricePerNight: 0,
     amenities: {
       "Free Wifi": false,
-      Breakfast: false,
+      "Breakfast": false,
       "Room Service": false,
       "Pool Access": false,
     },
